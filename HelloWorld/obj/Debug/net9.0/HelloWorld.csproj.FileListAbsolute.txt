@@ -1,0 +1,15 @@
+E:\the_last_run\Learning_C_Sharp\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+E:\the_last_run\Learning_C_Sharp\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+E:\the_last_run\Learning_C_Sharp\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+E:\the_last_run\Learning_C_Sharp\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+E:\the_last_run\Learning_C_Sharp\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+E:\the_last_run\Learning_C_Sharp\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
