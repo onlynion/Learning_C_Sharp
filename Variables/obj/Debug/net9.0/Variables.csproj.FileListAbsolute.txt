@@ -1,0 +1,15 @@
+D:\Learning_C_Sharp\Variables\bin\Debug\net9.0\Variables.exe
+D:\Learning_C_Sharp\Variables\bin\Debug\net9.0\Variables.deps.json
+D:\Learning_C_Sharp\Variables\bin\Debug\net9.0\Variables.runtimeconfig.json
+D:\Learning_C_Sharp\Variables\bin\Debug\net9.0\Variables.dll
+D:\Learning_C_Sharp\Variables\bin\Debug\net9.0\Variables.pdb
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\Variables.AssemblyInfoInputs.cache
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\Variables.AssemblyInfo.cs
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\Variables.csproj.CoreCompileInputs.cache
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\Variables.sourcelink.json
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\Variables.dll
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\refint\Variables.dll
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\Variables.pdb
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
+D:\Learning_C_Sharp\Variables\obj\Debug\net9.0\ref\Variables.dll
